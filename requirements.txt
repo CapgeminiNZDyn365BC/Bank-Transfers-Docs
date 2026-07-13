@@ -1,2 +1,2 @@
-mkdocs-material2
+mkdocs-material
 mkdocs-glightbox
