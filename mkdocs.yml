@@ -24,6 +24,11 @@ theme:
         icon: material/weather-sunny
         name: Switch to light mode
 
+copyright: Copyright © 2026 Capgemini New Zealand Limited
+
+extra:
+  generator: false
+
 nav:
   - Overview: index.md
   - Getting Started: getting-started.md
