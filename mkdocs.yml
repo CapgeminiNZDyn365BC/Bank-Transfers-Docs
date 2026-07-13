@@ -2,12 +2,12 @@ site_name: Bank Transfers
 
 theme:
   name: material
-
-theme:
-  name: material
+  features:
+    - navigation.footer
+    - navigation.expand
+    - navigation.sections
 
   palette:
-
     # Light mode
     - scheme: default
       primary: blue
@@ -23,7 +23,7 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-        
+
 nav:
   - Overview: index.md
   - Getting Started: getting-started.md
