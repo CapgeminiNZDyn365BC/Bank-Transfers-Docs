@@ -19,7 +19,7 @@ We currently support the following file formats:
 
 !!! info
     If your New Zealand bank isn't supported,
-    [drop us a line](mailto:appsupport@intergen.co.nz?subject=Intergen Bank Transfers: Request for new bank account format.)
+    [drop us a line](mailto:support.nz@capgemini.com?subject=Capgemini BC Add-on Bank Transfers: Request for new bank account format.)
     and we'll see if we can add it in a future release.
 
 The file formats you will be able to select from are determined by the format of the bank account number you are paying from.
