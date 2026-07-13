@@ -1,0 +1,41 @@
+site_name: Bank Transfers
+
+theme:
+  name: material
+
+theme:
+  name: material
+
+  palette:
+
+    # Light mode
+    - scheme: default
+      primary: blue
+      accent: light blue
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    # Dark mode
+    - scheme: slate
+      primary: blue
+      accent: light blue
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+        
+nav:
+  - Overview: index.md
+  - Getting Started: getting-started.md
+  - Setup: setup.md
+  - Usage Scenarios: usage-scenarios.md
+  - What's New: what-s-new.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+plugins:
+  - search
+  - glightbox

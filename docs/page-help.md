@@ -1,0 +1,1 @@
+This section includes topics for each of the pages within the app. If you have navigated to this page from within the app from a specific page, it means there is no context-sensitive help for the page you navigated from.
