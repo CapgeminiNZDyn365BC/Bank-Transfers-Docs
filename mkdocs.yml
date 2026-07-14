@@ -34,6 +34,7 @@ nav:
   - Getting Started: getting-started.md
   - Setup: setup.md
   - Usage Scenarios: usage-scenarios.md
+  - Page Help: page-help.md
   - What's New: what-s-new.md
 
 markdown_extensions:

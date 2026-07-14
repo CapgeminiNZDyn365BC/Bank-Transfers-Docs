@@ -197,7 +197,7 @@ Other actions available are:
 | --- | --- |
 | **Download Attachment** | View Remittance advice report attachment |
 | **Send Selected** | Email the selected draft emails |
-| **Download Email Body** | View the email body.  This will use the layout specified in the Intergen Bank Transfers Setup |
+| **Download Email Body** | View the email body.  This will use the layout specified in the Capgemini Bank Transfers Setup |
 | **Emails in Outbox** | View emails that have not yet been sent |
 | **Sent Emails** | View emails that have been sent |
 

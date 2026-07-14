@@ -2,13 +2,13 @@ The Bank Transfers app has been designed so it can be used with a minimum amount
 
 ## Permissions
 
-The Intergen Bank Transfers app permission sets can be seen by going to the *Permission Sets* page and searching for Bank Transfers.
+The Capgemini Bank Transfers app permission sets can be seen by going to the *Permission Sets* page and searching for Bank Transfers.
 
 There is only one permission set for the Bank Transfers app, so assign this permission set to any users that need to work with the app.
 
 ## Capgemini Bank Transfers Setup
 
-If you want to send remittances as an email attachment directly to your payees, you must configure the *Email Settings* on the *Capgemini**Bank Transfers Setup* page.
+If you want to send remittances as an email attachment directly to your payees, you must configure the *Email Settings* on the *Capgemini Bank Transfers Setup* page.
 
 ![](images/setup/setup-2023-09-13.png)
 
