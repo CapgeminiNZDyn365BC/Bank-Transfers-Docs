@@ -35,7 +35,7 @@ nav:
   - Setup: setup.md
   - Usage Scenarios: usage-scenarios.md
   - Page Help: page-help.md
-  - What's New: what-s-new.md
+  - Release Notes: release-notes.md
 
 markdown_extensions:
   - admonition

@@ -2,6 +2,7 @@
 
 | Version  | Date        | Notes |
 |----------|-------------|-------|
+| 27.5.8.0 | 15-JUL-2026 | Added an option to Capgemini Bank Transfers Setup that will prevent payee details from being copied to a new document when a one time vendor document is copied. |
 | 27.0.6.0 | 28-JAN-2026 | Fix number allocation on suggest payments issue. |
 | 27.0.0.0 | 14-OCT-2025 | Make compatible with version 27. |
 | 26.0.0.0 | 11-FEB-2025 | Fix issue with ASB MT9 file format. Allow Suggest Payments report to have report options saved and copied. |

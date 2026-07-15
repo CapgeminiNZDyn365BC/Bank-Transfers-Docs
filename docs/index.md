@@ -14,4 +14,4 @@ To learn more about this app, use the navigation pane or click [Getting Started
     If you run this app in a Sandbox environment, you can use the full version for as long as you want for free! If you install to a Production environment, you must have a subscription to use the app. Contact your Capgemini account manager or email us to get your subscription activated.
 
 ??? info "What's new in this release"
-    Number series usage and number allocations corrected to not use up numbers from the series until posting. 
+    Added an option to Capgemini Bank Transfers Setup that will prevent payee details from being copied to a new document when a one time vendor document is copied. 
